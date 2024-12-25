@@ -1,0 +1,8 @@
+Here, what is happening is that Vehicle have drive() capability. and its child class have inherited it.
+Now, some of child class wants different drive() capability. So they have overrided drive() and write their own function
+But some of same level child class have overrided drive() with same capability.
+Like:- SportsVehicle and OffRoadVehicle overrided it with same behaviour "Sport Drive Capablity"
+	   GoodsVehicl and PassangerVehicle have same drive behaviour and same for personalVehicle and taxiVehicle
+
+So , this is causing repetition of code and we are not reusing the code. And this will scale up, repetition will increase also.
+So, here Strategy Design Pattern comes in role.
