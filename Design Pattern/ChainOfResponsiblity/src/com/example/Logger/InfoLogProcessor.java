@@ -1,4 +1,4 @@
-package com.example.logger;
+package com.example.Logger;
 
 public class InfoLogProcessor extends LogProcessor {
 

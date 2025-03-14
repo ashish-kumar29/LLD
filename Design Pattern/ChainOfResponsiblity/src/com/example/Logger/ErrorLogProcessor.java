@@ -1,4 +1,4 @@
-package com.example.logger;
+package com.example.Logger;
 
 public class ErrorLogProcessor extends LogProcessor {
 
