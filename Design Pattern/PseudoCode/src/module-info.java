@@ -1,8 +1,6 @@
-/**
- * 
- */
-/**
- * 
- */
-module PseudoCode {
+Class Hotel{
+	String name;
+	int id;
+	Location hotelLocation;
+	
 }

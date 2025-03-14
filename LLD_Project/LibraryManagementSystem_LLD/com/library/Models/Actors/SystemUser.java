@@ -1,6 +1,6 @@
 package com.library.Models.Actors;
 
-import com.library.Models.Transaction.Account;
+import com.library.Common.Account;
 
 public class SystemUser extends Person{
     Account accountDetails;

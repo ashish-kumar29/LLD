@@ -1,4 +1,4 @@
-package com.library.Models.Transaction;
+package com.library.Common;
 
 public class Account {
     String userName;
