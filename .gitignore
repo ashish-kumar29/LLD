@@ -1,1 +1,13 @@
 Design Pattern/.metadata/
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore build-related files
+out/
+target/
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
